@@ -8,4 +8,4 @@ It would be simple enough to wire an LED to a PWM pin, in series with a resistor
 Is it ghoulish overkill? Sure, but the real question should be, "was it fun and educational", and on that front I've no doubt I've succeeded.
 
 ### Simplified schematic:
-![\<A simplified schematic\>](/simplifed_schematic.jpg)
+![\<A simplified schematic\>](https://raw.githubusercontent.com/imaginarygarage/FireFlyJar/master/simplified_schematic.jpg)
